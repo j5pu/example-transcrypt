@@ -1,4 +1,6 @@
-#pattern  filter=crypt diff=crypt merge=crypt
-secrets filter=crypt diff=crypt merge=crypt
-dir/* filter=crypt diff=crypt merge=crypt
-dir1/** filter=crypt diff=crypt merge=crypt
+U2FsdGVkX18A7Rx7LtNRvYotB4RKQ3EzGAMuur9XhJmhBb00WBRNKgpxwIzS5OYO
+HEied7XPZXVxZGNWq5gNoLELV/e+pN/m1NjSnFz+TYj7oFztqqmimfYS/LaQ27Y6
+ALe0FViWr8xCl2FOJzrwQURs/heHjp/Cs7UF2sBUxpwNtr/LoT4Ma2D2jQr5eg43
+qE4sVE+kB4Q6VbJGcYgF1PlRVDsG234hKwKpcSSwJ9QbldIEvWnA3s4ATkGdhovo
+6fwLiwGEgzhYmp+0eZzs0GTJZpwEtqPbNVOuX2M7kpxuXOuPxgYab/aocSQxuETr
+vJ9f+73kXCl9SkS1M67dXg==
